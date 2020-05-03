@@ -1,0 +1,38 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP21",
+                "stepName": "Url: blazedemo.com",
+                "infFile": "t1.inf",
+                "time": 1588504323319
+            },
+            {
+                "stepId": "STEP22",
+                "stepName": "Submit Form: reserve.php",
+                "infFile": "t2.inf",
+                "time": 1588504323988
+            },
+            {
+                "stepId": "STEP23",
+                "stepName": "Submit Form: purchase.php",
+                "infFile": "t3.inf",
+                "time": 1588504324504
+            },
+            {
+                "stepId": "STEP24",
+                "stepName": "Submit Form: confirmation.php",
+                "infFile": "t4.inf",
+                "time": 1588504324976
+            },
+            {
+                "stepId": "STEP25",
+                "stepName": "Link: Travel The World",
+                "infFile": "t5.inf",
+                "time": 1588504325452
+            }
+        ],
+        "transactions": []
+    }
+]
